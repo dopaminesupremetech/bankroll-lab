@@ -16,3 +16,7 @@ This repository includes a GitHub Actions workflow that deploys the static site 
 
 ## Disclaimer
 This is an educational, hypothetical simulator. It does not predict future outcomes or guarantee profit, and it does not connect to sportsbooks or betting accounts.
+
+
+## Deployment
+GitHub Pages deployment is automated through `.github/workflows/pages.yml` on pushes to `main`.
